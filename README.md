@@ -35,7 +35,7 @@ I am currently studying software development at **Udemig Software Academy** and 
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: https://linkedin.com/in/numan-balik-everige  
+- 💼 LinkedIn: https://www.linkedin.com/in/numan-balik-sverige
 - 💻 GitHub: https://github.com/numanbalik-web  
 
 
