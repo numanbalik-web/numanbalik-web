@@ -30,8 +30,7 @@ I am currently studying software development at **Udemig Software Academy** and 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=numanbalik-web&show_icons=true&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=numanbalik-web&show_icons=true&theme=default)
 
 ## 📫 Contact Me
 
