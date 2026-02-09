@@ -28,10 +28,6 @@ I am currently studying software development at **Udemig Software Academy** and 
 - Version control with Git
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=numanbalik-web&show_icons=true&theme=default)
-
 ## 📫 Contact Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/numan-balik-sverige
