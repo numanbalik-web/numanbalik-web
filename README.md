@@ -96,10 +96,7 @@ I build structured, maintainable and modern web interfaces.
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/numanbalik-web/numanbalik-web/output/github-contribution-grid-snake.svg" />
-</p>
-
+<img src="https://raw.githubusercontent.com/numanbalik-web/numanbalik-web/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 ---
 
 <p align="center">
