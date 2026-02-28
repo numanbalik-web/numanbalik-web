@@ -1,9 +1,10 @@
+<h1 align="center">
+  Hi 👋 I'm Numan Balık
+</h1>
 
-<h1 align="center">Hi 👋, I'm Numan Balık</h1>
-
-<h3 align="center">
-Frontend Developer (in training) | JavaScript Focused | Sweden 🇸🇪
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+in+Progress;JavaScript+Focused;Building+Modern+Web+Experiences;Based+in+Sweden+🇸🇪" />
+</p>
 
 ---
 
@@ -11,13 +12,16 @@ Frontend Developer (in training) | JavaScript Focused | Sweden 🇸🇪
 <tr>
 <td width="55%">
 
-### 💻 About Me
+## 💻 About Me
 
-- 🌱 Currently mastering **JavaScript**
-- 🎯 Building modern & responsive web projects
-- ⚡ Focused on clean, structured and scalable code
-- 📍 Based in Sweden
-- 🚀 On my way to becoming a strong Frontend Developer
+- 🎯 Focused on becoming a strong **Frontend Developer**
+- 🌱 Currently deep-diving into **JavaScript**
+- 🧠 Building real-world responsive projects
+- ⚡ Clean, structured & scalable code mindset
+- 📍 Sweden based
+
+I don’t just write code.  
+I build structured, maintainable and modern web interfaces.
 
 </td>
 
@@ -31,8 +35,9 @@ Frontend Developer (in training) | JavaScript Focused | Sweden 🇸🇪
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/numan-balik-sverige" target="_blank">
+<p align="center">
+
+<a href="https://www.linkedin.com/in/numan-balik-sverige">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -43,20 +48,21 @@ Frontend Developer (in training) | JavaScript Focused | Sweden 🇸🇪
 <a href="https://github.com/numanbalik-web">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### 🚀 Frontend
+### 🎨 Frontend
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🔧 Tools
+### 🛠 Tools
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -65,22 +71,41 @@ Frontend Developer (in training) | JavaScript Focused | Sweden 🇸🇪
 
 ---
 
-## 📊 GitHub Stats
+# ⭐ Featured Projects
+
+| Project | Description |
+|----------|------------|
+| 🎬 Netflix Clone | Responsive movie platform UI built with HTML, CSS |
+| ☕ Caffe Clone | Modern cafe landing page design |
+| 🎥 MovieProject | JavaScript-based interactive movie interface |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=numanbalik-web&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numanbalik-web&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=numanbalik-web&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numanbalik-web&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=numanbalik-web&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Current Focus
+# 🐍 Contribution Snake
 
-- JavaScript Deep Dive
-- DOM Manipulation
-- Responsive Web Design
-- Real-world project building
+<p align="center">
+<img src="https://raw.githubusercontent.com/numanbalik-web/numanbalik-web/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-⭐ If you like my projects, feel free to give them a star!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=numanbalik-web&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories.
