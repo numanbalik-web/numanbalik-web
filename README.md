@@ -1,38 +1,86 @@
 
-# 👋 Hi, I'm Numan!
+<h1 align="center">Hi 👋, I'm Numan Balık</h1>
 
-🎓 **Junior Frontend Developer (in training)**
+<h3 align="center">
+Frontend Developer (in training) | JavaScript Focused | Sweden 🇸🇪
+</h3>
 
-I am currently studying software development at **Udemig Software Academy** and focusing on frontend development.
+---
 
+<table>
+<tr>
+<td width="55%">
 
-## 🚀 About Me
+### 💻 About Me
 
-- 💻 Learning HTML, CSS, and JavaScript  
-- 🎯 Building modern, responsive websites  
-- 📚 Improving my skills every day through practice  
-- 🌱 Currently learning **JavaScript** and **React**
+- 🌱 Currently mastering **JavaScript**
+- 🎯 Building modern & responsive web projects
+- ⚡ Focused on clean, structured and scalable code
+- 📍 Based in Sweden
+- 🚀 On my way to becoming a strong Frontend Developer
 
+</td>
 
-## 🛠️ Technologies & Tools
+<td width="45%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
 
-- HTML5  
-- CSS3 (Flexbox & Grid)  
-- JavaScript  
-- Git & GitHub  
+---
 
-**Currently focusing on:**
-- Responsive Web Design  
-- DOM Manipulation  
-- Clean and structured code  
-- Version control with Git
+## 🌐 Connect With Me
 
+<p align="left">
+<a href="https://www.linkedin.com/in/numan-balik-sverige" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 📫 Contact Me
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 💼 LinkedIn: https://www.linkedin.com/in/numan-balik-sverige
-- 💻 GitHub: https://github.com/numanbalik-web  
+<a href="https://github.com/numanbalik-web">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
+---
 
-⭐ If you like my projects, don’t forget to give them a star!
+## 🛠 Tech Stack
 
+### 🚀 Frontend
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🔧 Tools
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=numanbalik-web&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numanbalik-web&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- JavaScript Deep Dive
+- DOM Manipulation
+- Responsive Web Design
+- Real-world project building
+
+---
+
+⭐ If you like my projects, feel free to give them a star!
