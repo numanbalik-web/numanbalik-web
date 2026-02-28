@@ -70,14 +70,25 @@ I build structured, maintainable and modern web interfaces.
 </p>
 
 ---
+## ⭐ Featured Projects
 
-# ⭐ Featured Projects
+<p>
+🔹 <b>MovieProject</b> — JavaScript-based interactive movie interface  
+<br/>
+<a href="https://github.com/numanbalik-web/MovieProject">Repo</a>
+</p>
 
-| Project | Description |
-|----------|------------|
-| 🎬 Netflix Clone | Responsive movie platform UI built with HTML, CSS |
-| ☕ Caffe Clone | Modern cafe landing page design |
-| 🎥 MovieProject | JavaScript-based interactive movie interface |
+<p>
+🔹 <b>js-playlist</b> — JavaScript practice & fundamentals  
+<br/>
+<a href="https://github.com/numanbalik-web/js-playlist">Repo</a>
+</p>
+
+<p>
+🔹 <b>Netflix Clone</b> — Responsive UI clone project  
+<br/>
+<a href="https://github.com/numanbalik-web/Netflix-clone">Repo</a>
+</p>
 
 ---
 
@@ -103,6 +114,8 @@ I build structured, maintainable and modern web interfaces.
   <img src="https://komarev.com/ghpvc/?username=numanbalik-web&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
+## 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=numanbalik-web&theme=tokyo-night&hide_border=true" />
 ---
 
 ⭐ If you like my work, consider giving a star to my repositories.
